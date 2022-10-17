@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Resistor</string>
+    <string name="band_1">Band 1</string>
+    <string name="band_3">Band 3</string>
+    <string name="band_2">Band 2</string>
+    <string name="band_4">Band 4</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="textview">TextView</string>
+    <string name="resistor_calculator">Resistor Calculator</string>
+</resources>
